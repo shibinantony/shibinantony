@@ -21,4 +21,4 @@ I architect secure, agentic GenAI systems for regulated industries (BFSI, Supply
 * **[Governance-as-Code-Control-Plane]** - *Enterprise AI Resilience and Operational Risk Mitigation via deterministic Guardrails.*
 
 ---
-*Operating strictly with the CEO Mindset to bridge US/NIST architectures with global risk perspectives.*
+*Operating strictly with the C-Suite Mindset to bridge International Governance architectures with global risk perspectives.*
