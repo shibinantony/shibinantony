@@ -1,5 +1,5 @@
 # ⚡ Shibin Antony Boban
-**Architect | Director | Enterprise AI Assurance**
+**Architect | Director | Enterprise AI Strategy & Assurance**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
