@@ -54,6 +54,11 @@ flowchart LR
 
 A curated collection of director-level frameworks, decision labs, and enterprise reference architectures:
 
+### 🛰️ New Public IP: Enterprise AI ORBIT
+* [**Enterprise AI ORBIT: From Business Outcome to Governed Autonomy**](frameworks/enterprise-ai-orbit.md)<br>
+  *A director-and-senior-solution-architect framework connecting measurable outcomes, decision rights, bounded execution, interoperable context, simulation, evidence, and Day 2 operations across agentic and physical AI.*
+* [**Executive LinkedIn post draft**](briefings/enterprise-ai-orbit-linkedin-post.md)
+
 ### 📊 Enterprise Operating Models & Strategy
 * [**enterprise-ai-operating-model**](https://github.com/shibinantony/enterprise-ai-operating-model)  
   *Executive AI Director operating system: quantified business cases, ROI models, platform decision heuristics (adopt/extend/build/defer), TRACE Transparency-as-Code, and Day 2 operating controls.*
